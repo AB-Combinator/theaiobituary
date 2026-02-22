@@ -13,6 +13,7 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://theaiobituary.vercel.app"),
   title: "The AI Obituary — The AI Boom (2022–2026)",
   description:
     "In Memoriam: The AI Boom, declared dead by 0.04% of the global population. Survived by 6.7 billion people who never used it.",
